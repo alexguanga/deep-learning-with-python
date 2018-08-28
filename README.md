@@ -13,11 +13,8 @@ I decided to tackle this textbook after hearing Ben Taylor's recommendation on g
 
 ---
 ## Sections:
-1. [Chapter 1](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter1-Introduction.ipynb)
-2. [Chapter 2](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter2-StatisticalLearning.ipynb)
-3. [Chapter 3](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter3-LinearRegression.ipynb)
-4. [Chapter 4](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter4-Classification.ipynb)
-5. [Chapter 5](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter5-Resampling.ipynb)
-6. [Chapter 6](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter6-LinearModelSelection_Regularization.ipynb)
-7. [Chapter 7](https://github.com/alexguanga/intro-to-statistical-learning/blob/master/Chapter7-MovingBeyondLinearity.ipynb)
+1. [Chapter 1](https://github.com/alexguanga/deep-learning-with-python/blob/master/Chapter01.ipynb)
+2. [Chapter 2](https://github.com/alexguanga/deep-learning-with-python/blob/master/Chapter02.ipynb)
+3. [Chapter 3](https://github.com/alexguanga/deep-learning-with-python/blob/master/Chapter03.ipynb)
+4. [Chapter 4](https://github.com/alexguanga/deep-learning-with-python/blob/master/Chapter04.ipynb)
 ---
